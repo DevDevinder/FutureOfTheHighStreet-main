@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bus Stop DD3 6EU",
+                "routes": [
+                    "Route A"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.994073,
+                    56.473491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bus Stop DD3 9QN",
+                "routes": [
+                    "Route A"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.001018,
+                    56.496013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bus Stop DD4 0HB",
+                "routes": [
+                    "Route A"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.93061,
+                    56.493093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bus Stop DD4 0HB",
+                "routes": [
+                    "Route B"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.93061,
+                    56.493093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bus Stop DD2 3EH",
+                "routes": [
+                    "Route B"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.016431,
+                    56.471818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bus Stop DD3 0JE",
+                "routes": [
+                    "Route B"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.988053,
+                    56.491706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bus Stop DD3 0JE",
+                "routes": [
+                    "Route C"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.988053,
+                    56.491706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Bus Stop DD2 1TL",
+                "routes": [
+                    "Route C"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.01732,
+                    56.460023
+                ]
+            }
+        }
+    ]
+}
